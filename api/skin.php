@@ -7607,7 +7607,7 @@
             "custom": true,
             "relativePath": "https:\/\/i.imgur.com\/pnt7Afx.png"
         },
-        "effendi_01": {
+        "25yt_01": {
             "custom": true,
             "relativePath": "https://i.imgur.com/5e4HSBc.png"
         },
@@ -8669,7 +8669,7 @@
         },
         "25ypg_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/S5rYkaP.png"
+            "relativePath": "https://i.imgur.com/mSTDk9O.png"
         },
         "25ypg_02": {
             "custom": true,
