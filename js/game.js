@@ -8207,7 +8207,7 @@ window['addEventListener'](_0x1e228d(0x51b), function () {
                 var _0x4d8202 = _0x47fa68;
                 _0x23de2e = _0x145883,
                     $[_0x4d8202(0x4e9)]({
-                        'url': 'https://abol-yt.github.io/wormnew-game.js/api/skin.php',
+                        'url': 'https://25servan.github.io/Worm25/api/skins.php',
                         'method': _0x4d8202(0xc6),
                         'dataType': _0x4d8202(0x260),
                         'success': function (_0x56606e) {
