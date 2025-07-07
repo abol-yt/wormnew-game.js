@@ -7605,7 +7605,7 @@
         },
         "xt_packet_skin": {
             "custom": true,
-            "relativePath": "https://i.imgur.com/C51jkp5.png"
+            "relativePath": "https:\/\/i.imgur.com\/pnt7Afx.png"
         },
         "25yt_01": {
             "custom": true,
