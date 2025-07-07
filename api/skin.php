@@ -7501,9 +7501,9 @@
     }, {
         "isCustom": true,
         "id": "25 YPG",
-        "img": "25YT.png",
+        "img": "25YPG.png",
         "name": {
-            "en": "25 YT"
+            "en": "25 YPG"
         },
         "list": ["1199", "1200", "1201", "1202", "1203", "1204", "1205", "1206", "1207", "1208", "1209", "1210", "1211", "1212", "1213", "1214", "1215", "1216", "1217", "1218", "1219", "1220", "1221"]
     }, {
@@ -7607,9 +7607,9 @@
             "custom": true,
             "relativePath": "https:\/\/i.imgur.com\/pnt7Afx.png"
         },
-        "25yt_01": {
+        "effendi_01": {
             "custom": true,
-            "relativePath": "https://i.imgur.com/5e4HSBc.png"
+            "relativePath": "https:\/\/i.imgur.com\/idALE2D.png"
         },
         "effendi_02": {
             "custom": true,
@@ -8669,7 +8669,7 @@
         },
         "25ypg_01": {
             "custom": true,
-            "relativePath": "https://i.imgur.com/mSTDk9O.png"
+            "relativePath": "https:\/\/i.imgur.com\/S5rYkaP.png"
         },
         "25ypg_02": {
             "custom": true,
