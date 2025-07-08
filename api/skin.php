@@ -11189,10 +11189,10 @@
     },
     {
       "id": 1201,
-      "guest": false,
+      "guest": right,
       "nonbuyable": true,
-      "price": 0,
-      "priceBefore": 0,
+      "price": 3,
+      "priceBefore": 4,
       "prime": "c__yllw",
       "base": [
         "25ypg_03_8",
