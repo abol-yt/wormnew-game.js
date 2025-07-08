@@ -18560,7 +18560,7 @@
     },
     "25ypg_03": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/Bfxdrss.png"
+      "relativePath": "https://i.imgur.com/MTVbR2k.png"
     },
     "25ypg_04": {
       "custom": true,
