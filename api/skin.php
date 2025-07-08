@@ -17332,7 +17332,7 @@
     {
       "isCustom": true,
       "id": "KURDISTAN 75",
-      "img": ".png",
+      "img": "Dv2.png",
       "name": {
         "en": "KURDISTAN 75"
       },
@@ -17343,7 +17343,7 @@
     {
       "isCustom": true,
       "id": "EZI EZIDXAN",
-      "img": ".png",
+      "img": "Dv2.png",
       "name": {
         "en": "EZI EZIDXAN"
       },
@@ -17354,7 +17354,7 @@
     {
       "isCustom": true,
       "id": "101 Gaming",
-      "img": ".png",
+      "img": "Dv2.png",
       "name": {
         "en": "101 Gaming"
       },
@@ -17365,7 +17365,7 @@
     {
       "isCustom": true,
       "id": "Ziko Gaming",
-      "img": ".png",
+      "img": "Dv2.png",
       "name": {
         "en": "Ziko Gaming"
       },
@@ -17376,7 +17376,7 @@
     {
       "isCustom": true,
       "id": "Abu Faris",
-      "img": "25yt.png",
+      "img": "Dv2.png",
       "name": {
         "en": "Abu Faris"
       },
@@ -17387,7 +17387,7 @@
     {
       "isCustom": true,
       "id": "ninawa",
-      "img": "25yt.png",
+      "img": "Dv2.png",
       "name": {
         "en": "ninawa"
       },
@@ -18556,15 +18556,15 @@
     },
     "25ypg_02": {
       "custom": true,
-      "relativePath": ""
+      "relativePath": "https://i.imgur.com/TmlAOSl.png"
     },
     "25ypg_03": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/MTVbR2k.png"
+      "relativePath": "https://i.imgur.com/Bfxdrss.png"
     },
     "25ypg_04": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/0yo3uZa.png"
+      "relativePath": "https://i.imgur.com/L4a6Qlz.png"
     },
     "25ypg_05": {
       "custom": true,
