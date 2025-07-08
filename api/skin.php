@@ -17332,7 +17332,7 @@
     {
       "isCustom": true,
       "id": "KURDISTAN 75",
-      "img": "Dv2.png",
+      "img": ".png",
       "name": {
         "en": "KURDISTAN 75"
       },
@@ -17343,7 +17343,7 @@
     {
       "isCustom": true,
       "id": "EZI EZIDXAN",
-      "img": "Dv2.png",
+      "img": ".png",
       "name": {
         "en": "EZI EZIDXAN"
       },
@@ -17354,7 +17354,7 @@
     {
       "isCustom": true,
       "id": "101 Gaming",
-      "img": "Dv2.png",
+      "img": ".png",
       "name": {
         "en": "101 Gaming"
       },
@@ -17365,7 +17365,7 @@
     {
       "isCustom": true,
       "id": "Ziko Gaming",
-      "img": "Dv2.png",
+      "img": ".png",
       "name": {
         "en": "Ziko Gaming"
       },
@@ -17376,7 +17376,7 @@
     {
       "isCustom": true,
       "id": "Abu Faris",
-      "img": "Dv2.png",
+      "img": "25yt.png",
       "name": {
         "en": "Abu Faris"
       },
@@ -17387,7 +17387,7 @@
     {
       "isCustom": true,
       "id": "ninawa",
-      "img": "Dv2.png",
+      "img": "25yt.png",
       "name": {
         "en": "ninawa"
       },
