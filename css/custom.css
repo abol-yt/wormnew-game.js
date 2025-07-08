@@ -24,7 +24,7 @@ document.documentElement.insertAdjacentHTML("afterbegin", `
             position: absolute;
             width: 100%;
             height: 100%;
-            background: url('https://i.imgur.com/YgwHwnw.png') no-repeat center center/cover;
+            background: url('https://i.imgur.com/cLaEQlq.png') no-repeat center center/cover;
             background-size: cover;
             background-position: center;
             opacity: 0.3;
