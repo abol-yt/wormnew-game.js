@@ -1461,7 +1461,7 @@ body {display:block !important;}
   height:20px;
   line-height:20px;
 }
-#game-wrap #game-cont #stretch-box #popup-view .popup-view-list #skins-view .store-left #store-locked-bar {
+#game-wrap #game-cont #stretch-box #popup-view .popup-view-list #skins-view .store-left #store-opened-bar {
   position:absolute;
   bottom:10px;
   left:10px;
@@ -1476,7 +1476,7 @@ body {display:block !important;}
   align-items:center;
   text-align:center;
 }
-#game-wrap #game-cont #stretch-box #popup-view .popup-view-list #skins-view .store-left #store-locked-bar #store-locked-bar-text {
+#game-wrap #game-cont #stretch-box #popup-view .popup-view-list #skins-view .store-left #store-opened-bar #store-opened-bar-text {
   box-sizing:border-box;
   margin:0 10px;
   width:100%;
