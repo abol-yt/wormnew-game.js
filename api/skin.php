@@ -2,7 +2,7 @@
     "textureDict": {
         "t_wup_at_skins_1": {
             "custom": true,
-            "relativePath": "\/get_skin.phpskin=at_skins_1.png"
+            "relativePath": "https://i.imgur.com/DMhqonq.png"
         },
         "t_wup_at_skins_2": {
             "custom": true,
