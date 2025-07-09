@@ -7609,15 +7609,15 @@
         },
         "effendi_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/idALE2D.png"
+            "relativePath": "https://i.imgur.com/XFwDafz.png"
         },
         "effendi_02": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/1I99JjG.png"
+            "relativePath": "https://i.imgur.com/lgDPOTa.png"
         },
         "effendi_03": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/QRrO2Ic.png"
+            "relativePath": "https://i.imgur.com/py2Ol2d.png"
         },
         "effendi_04": {
             "custom": true,
