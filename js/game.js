@@ -1,6 +1,6 @@
 
 
-var var_weburl = "https://wormateserkanconnect.github.io/app2";
+var var_weburl = "";
 window.detectLog = null;
 const __yildowft = {
     BETAisSkinCustom(input) {
@@ -5915,7 +5915,7 @@ else {
            <div style="margin: 0;" id="loa831pibur0w4gv">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   
-    <div class="label" id="titleSetings">GENEL BILDIRI</div>
+    <div class="label" id="titleSetings">WormYT.io</div>
     <div class="bao-list1">
       
       <input type="text" value="${theowftObjects.FB_UserID}" style="width: 80%;height: 23px;border-radius: 4px;font-size: 15px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;"/>
@@ -5923,7 +5923,7 @@ else {
       <center>
         <div class="hg"><a target="_blank" href="https://wa.me/905544655080/">AktifleÅŸtir (Ãœnal)</a> </div>
       </center>
-     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Selam arkadaÅŸlar, en geÃ§ 24 saat iÃ§erisinde aktif hale gelecektir. <a style="color: #2ae1eb; font-weight: 600;" href="https://wormatefriendsturkey.com/">https://wormatefriendsturkey.com//</a> </div>
+     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> welcome. <a style="color: #2ae1eb; font-weight: 600;" href=""></a> </div>
       
     
 </div>`);
@@ -6010,17 +6010,17 @@ function applyGraphicsSettings(level, button) {
     
     <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
     
-    <input type="button" value="CONTACT" onclick="window.location.href='https://api.whatsapp.com/send?phone=84924623650&text=Xin%20ch%C3%A0o!%20M%C3%ACnh%20%C4%91ang%20d%C3%B9ng%20Whatsapp'" class="fullscreen_contact">
+    <input type="button" value="CONTACT" onclick="window.location.href=''" class="fullscreen_contact">
     </div> `);
             
             
              $(".mm-merchant-cont").html(`
   <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
     <a href="###" target="_blank" style="margin-right: 10px;">
-      <img src="https://i.imgur.com/5cCaxAT.png" alt="no_ads" width="155">
+      <img src="https://i.imgur.com/KFBhvJK.png" alt="no_ads" width="155">
     </a>
     <a href="###" target="_blank">
-      <img src="https://i.imgur.com/5cCaxAT.png" alt="no_ads" width="155">
+      <img src="https://i.imgur.com/KFBhvJK.png" alt="no_ads" width="155">
     </a>
   </div>`);
             $(document).ready(function () {
@@ -6089,7 +6089,7 @@ function applyGraphicsSettings(level, button) {
                 <ul style="margin-top: 5px;" class="ui-tabs-nav">
                     <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">
                         <a href="javascript:void(0);" onclick="changeServer('peru')"> 
-                            <span class="flag br" value="https://i.imgur.com/KE9354e.png">
+                            <span class="flag br" value="https://i.imgur.com/dixYLjk.png">
 <div class="title-wormate-SEKO-flag" style="position: absolute; top: 0; z-index: 7; width: 104%; margin-left: -9px;">
     <img src="https://haylamday.com/images/hiep_img/logo.png" width="20" align="center" alt="">Wormate Friends Türkiye.io
 </div>
@@ -7017,7 +7017,7 @@ $("#background-canvas").replaceWith(`
             <a class="link" hreflang="en" href="https://wormateserkanconnect.github.io/"> © 2025 WormateFriendsTurkey.io ©</a>
             
             <a class="link" hreflang="en" href="https://skinlab.haylamday.com/">SkinLab by Wormate Friends Connect ©</a>
-          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Powered by Platen !</a>
+          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Powered by 25 YT !</a>
             </footer>
 
 
