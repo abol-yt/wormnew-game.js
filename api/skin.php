@@ -19578,7 +19578,7 @@
         },
         "25ypg_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/RwajIjW.png"
+            "relativePath": "https://i.imgur.com/1z2ic7R.png"
         },
         "25ypg_02": {
             "custom": true,
