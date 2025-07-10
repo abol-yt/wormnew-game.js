@@ -6948,7 +6948,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormateserkanconnect.github.io/app2/api/skins.php',
+            url: 'https://abol-yt.github.io/wormnew-game.js/api/skin.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
