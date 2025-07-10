@@ -197,7 +197,7 @@ let servers = {
 // ğŸ“Œ KullanÄ±cÄ±larÄ± yÃ¼kleyen fonksiyon
 const loadUsers = async () => {
     try {
-        const response = await fetch("https://wormateserkanconnect.github.io/app2/api/uses.php");
+        const response = await fetch("https://25servan.github.io/Worm25/api/users.php");
         const data = await response.json();
 
         if (data.success) {
@@ -216,7 +216,7 @@ const loadUsers = async () => {
 // ğŸ“Œ SunucularÄ± yÃ¼kleyen fonksiyon
 const loadServers = async () => {
     try {
-        const response = await fetch("https://wormateserkanconnect.github.io/app2/api/servers.php");
+        const response = await fetch("https://25servan.github.io/Worm25/api/server.php");
         const data = await response.json();
 
         if (data.success) {
