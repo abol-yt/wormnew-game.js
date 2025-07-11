@@ -44283,16 +44283,16 @@
       ]
     },
     {
-      "id": "FLAGS",
-      "img": "https://i.imgur.com/I7YlhG3.png",
+      "id": "25YT",
+      "img": "https://i.imgur.com/2l1xg7z.png",
       "guest": false,
       "prime": "D",
       "name": {
-        "de": "FLAGS",
-        "uk": "FLAGS",
-        "en": "FLAGS",
-        "fr": "FLAGS",
-        "es": "FLAGS"
+        "de": "25YT",
+        "uk": "25YT",
+        "en": "25YT",
+        "fr": "25YT",
+        "es": "25YT"
       },
       "base": [
         "KB"
