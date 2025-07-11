@@ -234,8 +234,8 @@
         "dataCon": "wss:\/\/fra-c.wormate.io:32053\/wormy",
         "dataRoom": "1de",
         "dataType": "false",
-        "serverName": "01  𝐃𝑼𝐊𝐓𝐎𝐑",
-        "imgSrc": "https:\/\/asserts.wormworld.io\/rooms\/TEM_TIKDUKTOR.png"
+        "serverName": "01  ♦️👁⃤➁５ʸ𝔱 ♝♦️",
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32103\/wormy",
@@ -276,22 +276,22 @@
         "dataCon": "wss:\/\/fra-c.wormate.io:32026\/wormy",
         "dataRoom": "7de",
         "dataType": "false",
-        "serverName": "07  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "serverName": "07  wormYT.io",
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32262\/wormy",
         "dataRoom": "8de",
         "dataType": "false",
-        "serverName": "08  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "serverName": "08  wormYT.io",
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32095\/wormy",
         "dataRoom": "9de",
         "dataType": "false",
-        "serverName": "09  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "serverName": "09  wormYT.io",
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32053\/wormy",
@@ -424,56 +424,56 @@
         "dataRoom": "1jp",
         "dataType": "false",
         "serverName": "01  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32609\/wormy",
         "dataRoom": "2jp",
         "dataType": "false",
         "serverName": "02  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32103\/wormy",
         "dataRoom": "3jp",
         "dataType": "false",
         "serverName": "03  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32064\/wormy",
         "dataRoom": "4jp",
         "dataType": "false",
         "serverName": "04  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:31965\/wormy",
         "dataRoom": "5jp",
         "dataType": "false",
         "serverName": "05  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32026\/wormy",
         "dataRoom": "6jp",
         "dataType": "false",
         "serverName": "06  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32262\/wormy",
         "dataRoom": "7jp",
         "dataType": "false",
         "serverName": "07  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32095\/wormy",
         "dataRoom": "8jp",
         "dataType": "false",
         "serverName": "08  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32262\/wormy",
@@ -592,6 +592,6 @@
         "dataRoom": "9ae",
         "dataType": "false",
         "serverName": "09  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/A2UDo9z.png"
     }
 ]
