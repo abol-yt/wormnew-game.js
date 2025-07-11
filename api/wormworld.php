@@ -4,63 +4,63 @@
         "dataRoom": "1br",
         "dataType": "false",
         "serverName": "01  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32285\/wormy",
         "dataRoom": "2br",
         "dataType": "false",
         "serverName": "02  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32609\/wormy",
         "dataRoom": "3br",
         "dataType": "false",
         "serverName": "Servidor Tres RNG",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32103\/wormy",
         "dataRoom": "4br",
         "dataType": "false",
         "serverName": "04  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32064\/wormy",
         "dataRoom": "5br",
         "dataType": "false",
         "serverName": "05  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:31965\/wormy",
         "dataRoom": "6br",
         "dataType": "false",
         "serverName": "06  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32026\/wormy",
         "dataRoom": "7br",
         "dataType": "false",
         "serverName": "07  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32262\/wormy",
         "dataRoom": "8br",
         "dataType": "false",
         "serverName": "08  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32095\/wormy",
         "dataRoom": "9br",
         "dataType": "false",
         "serverName": "09  WW",
-        "imgSrc": "https:\/\/i.imgur.com\/MPWnHnc.png"
+        "imgSrc": "https://i.imgur.com/fSNIFvS.png"
     },
     {
         "dataCon": "wss:\/\/fra-c.wormate.io:32262\/wormy",
