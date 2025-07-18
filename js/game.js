@@ -4398,7 +4398,7 @@ window['addEventListener'](_0x1e228d(0x51b), function () {
                                         _0x2e278e = clientes[_0xa0225d(0x4f7)][_0x738ac2][_0xa0225d(0xcd)];
                                     if (theoKzObjects[_0xa0225d(0x267)] == 0x0) {} else {
                                         if (theoKzObjects[_0xa0225d(0x267)] == _0x3c7556)
-                                            $(_0xa0225d(0x313))[_0xa0225d(0x4eb)]('<div class=\'het-han\'>  ينتهي التفعيل في : ' + _0x2e278e + _0xa0225d(0x4bc)),
+                                            $(_0xa0225d(0x313))[_0xa0225d(0x4eb)]('<div class=\'het-han\'>  ينتهي التفعيل في :           ' + _0x2e278e + _0xa0225d(0x4bc)),
                                             _0x1c1237(),
                                             _0x56aae0();
                                         else {}
