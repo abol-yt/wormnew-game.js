@@ -82,28 +82,6 @@ window.addEventListener('DOMContentLoaded', function() {
   premiumImage.style.borderRadius = '4px';
   premiumImage.style.margin = '10px auto 20px';
   premiumImage.style.display = 'block';
-  
-  // Ø¥Ù†Ø´Ø§Ø¡ Ø£Ø²Ø±Ø§Ø± Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ø¹Ù†Ø§ØµØ± Ø§Ù„Ø¹Ø§Ø¯ÙŠØ© Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† Ø§Ù„Ø±ÙˆØ§Ø¨Ø·
-  // Ø²Ø± ØªØ­Ù…ÙŠÙ„ Ø§Ù„Ø¥Ø¶Ø§ÙØ© Ù…Ù† Ù…ØªØ¬Ø± Ø¬ÙˆØ¬Ù„
-  const storeButton = document.createElement('button');
-  storeButton.textContent = 'ØªØ­Ù…ÙŠÙ„ Ø§Ù„Ø¥Ø¶Ø§ÙØ© Ù…Ù† Ù…ØªØ¬Ø± Ø¬ÙˆØ¬Ù„';
-  storeButton.style.display = 'inline-block';
-  storeButton.style.backgroundColor = '#4285F4';
-  storeButton.style.color = 'white';
-  storeButton.style.padding = '12px 24px';
-  storeButton.style.margin = '10px auto';
-  storeButton.style.borderRadius = '6px';
-  storeButton.style.border = 'none';
-  storeButton.style.fontWeight = 'bold';
-  storeButton.style.fontSize = '16px';
-  storeButton.style.transition = 'background-color 0.3s';
-  storeButton.style.cursor = 'pointer';
-  storeButton.style.boxShadow = '0 2px 5px rgba(0,0,0,0.2)';
-  
-  // Ø¥Ø¶Ø§ÙØ© Ù…Ø¹Ø§Ù„Ø¬ Ø§Ù„Ø­Ø¯Ø« Ù„Ù„Ø²Ø±
-  storeButton.addEventListener('click', function(e) {
-    e.stopPropagation();
-    window.open('https://chromewebstore.google.com/detail/wormup/blhmpoamlcbabheehepafeginmfobknj?hl=ar', '_blank');
   });
   
   // Ø²Ø± Discord
