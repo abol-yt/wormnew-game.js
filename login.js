@@ -279,7 +279,7 @@
       cargarScript('https://wormx.store/js/old1game.js');
     });
     document.getElementById('opcion2').addEventListener('click', function () {
-      cargarScript('https://abol-yt.github.io/wormnew-game.js/new/game2.php');
+      cargarScript('https://abol-yt.github.io/wormnew-game.js/js/game4.js');
     });
     document.getElementById('opcion3').addEventListener('click', function () {
  	cargarScript('https://wormx.store/js/game.js');
